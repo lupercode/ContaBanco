@@ -1,5 +1,19 @@
 import java.util.Scanner;
 
+/**
+*<h1>Conta Bancária</h1>
+*
+*<p>A classe ContaTerminal representa uma conta bancária com informações básicas
+*sobre o cliente, agência, número da conta e saldo.</p>
+*
+*<p>Essa classe permite criar uma conta bancária e exibir suas informações em
+*uma mensagem formatada.</p>
+*
+*@author Luan Pereira
+*@version 1.0
+*@since 07/11/2024
+*
+*/
 public class ContaTerminal {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
